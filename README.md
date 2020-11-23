@@ -7,6 +7,7 @@ Neste desafio você terá que implementar um sistema mobile com React Native ond
 - Permitir escolher filmes favoritos
 - Permitir remover um filme dos favoritos
 - Listar os filmes favoritos
+- Caso o aplicativo seja fechado, os favoritos não devem ser perdidos
 
 Para ajudar na concepção do layout, estamos disponibilizando abaixo um print de um aplicativo que atende os requisitos listados. Use sua criatividade para criar um layout novo, ou reproduza o leyout proposto, se preferir.
 
