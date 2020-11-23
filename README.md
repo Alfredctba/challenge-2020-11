@@ -12,6 +12,10 @@ Para ajudar na concepção do layout, estamos disponibilizando abaixo um print d
 
 Para facilitar um pouco mais as coisas, já deixamos separada uma chave de acesso para a API (ou você pode criar a sua também):
 
+<p align="center">
+  <img src="./cinema-app.gif" alt="cinema-app" width="200px">
+</p>
+
 Chave de API: 925eba28
 Exemplo requisição: GET http://www.omdbapi.com/?apikey=925eba28&s=batman
 
